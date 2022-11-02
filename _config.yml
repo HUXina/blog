@@ -4,3 +4,10 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
+github:
+  zip_url: https://aihenai.cn/download.zip
+  tar_url: https://aihenai.cn/download.tar.gz
+  repository_url: www.aihenai.cn
+  repository_name: aihenai.cn
+  owner_url: www.aihenai.cn
+  owner_name: HU Xin
